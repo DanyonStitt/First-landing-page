@@ -29,7 +29,7 @@ a {
     justify-content: space-between;
     min-height: 40px;
     align-items: center;
-    padding-left: 50px;
+    padding-left: 20px;
     padding-right: 50px;
 }
 
@@ -43,13 +43,13 @@ a {
     font-size: medium;
     justify-content: space-evenly;
     gap: 40px;
-    height: 300px;
+    padding: 100px;
 }
 
 .left {
     display: flex;
     flex-direction: column;
-    width: 300px;
+    width: 400px;
     gap: 10px;
 }
 
